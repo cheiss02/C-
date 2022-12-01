@@ -1,0 +1,7 @@
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\bin\Debug\genericApplicationCs.exe.config
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\bin\Debug\genericApplicationCs.exe
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\bin\Debug\genericApplicationCs.pdb
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\obj\Debug\genericApplicationCs.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\obj\Debug\genericApplicationCs.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\obj\Debug\genericApplicationCs.exe
+C:\Users\Katherine\OneDrive\Documentos\Fall2022\CECS342\assign 2\genericApplicationCs\genericApplicationCs\obj\Debug\genericApplicationCs.pdb
